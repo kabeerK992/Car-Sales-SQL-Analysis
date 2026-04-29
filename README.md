@@ -1,4 +1,4 @@
-# 🚗 Car Sales Analysis — SQL Project
+# Vehicle Sales & Dealer Performance Analysis
 
 > **A complete SQL data analysis project solving 12 real business problems using PostgreSQL**
 
